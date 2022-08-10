@@ -12,6 +12,12 @@ Foi desenvolvido um jogo de perguntas e respostas baseado no jogo **Trivia** _(t
   - Visualizar a página de ranking, se quiser, ao final de cada jogo.
   - Configurar algumas opções para o jogo em uma tela de configuração acessível a partir do cabeçalho do app.
 
+---
+
+![](https://github.com/tarcisioliboni/Trivia/blob/main/TriviaGIF.gif)
+
+---
+
 ## Instalando Dependências
 
 ```bash
@@ -22,3 +28,10 @@ npm install
 ```
 npm start
 ```
+---
+
+## O projeto foi desenvolvido em pair programming com os desenvolvedores:
+ - BrunoNowk
+ - Bissixp
+ - Charles-XavierS
+ - marvigdev
