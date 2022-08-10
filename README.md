@@ -31,7 +31,7 @@ npm start
 ---
 
 ## O projeto foi desenvolvido em pair programming com os desenvolvedores:
- - BrunoNowk
  - Bissixp
+ - BrunoNowk
  - Charles-XavierS
  - marvigdev
