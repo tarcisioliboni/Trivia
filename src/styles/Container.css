@@ -1,0 +1,49 @@
+.container {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  justify-content: center;
+}
+
+.settings_items {
+  align-content: center;
+  align-items: center;
+  align-self: center;
+  background-color: white;
+  border-radius: 5px;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16) , 0 3px 6px rgba(0, 0, 0, 0.23);
+  color: black;
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  padding: 10px 20px;
+  width: 300px;
+}
+
+input[ type = 'number' ]::-webkit-inner-spin-button {
+  appearance: none;
+
+}
+
+input[ type = 'number' ] {
+  appearance: textfield;
+  text-align: center;
+}
+
+.buttonHome {
+  background-color: #6930c3;
+  border: solid white 1px;
+  border-radius: 10px;
+  color: white;
+  font-size: larger;
+  font-weight: 600;
+  margin-bottom: 5px;
+  padding: 20px;
+  width: auto;
+}
+
+input, select {
+  height: 30px;
+  margin: 5px;
+}

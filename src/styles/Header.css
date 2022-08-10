@@ -1,0 +1,25 @@
+header {
+  align-items: center;
+  background-color: #6930c3;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16) , 0 3px 6px rgba(0, 0, 0, 0.23);
+  color: white;
+  display: flex;
+  font-variant: small-caps;
+  justify-content: space-around;
+  padding: 15px 0;
+}
+
+header > img {
+  width: 85px;
+}
+
+header .info img {
+  border-radius: 100%;
+  width: 30px;
+}
+
+header .info {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+}

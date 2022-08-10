@@ -1,0 +1,17 @@
+iframe {
+  display: none;
+}
+
+.answer_container .wrong {
+  background-color: red ! important;
+  border: 3px solid red;
+}
+
+.answer_container .correct {
+  background-color: rgb(6, 240, 15) ! important;
+  border: 3px solid rgb(6, 240, 15);
+}
+
+* {
+  font-variant: small-caps;
+}
